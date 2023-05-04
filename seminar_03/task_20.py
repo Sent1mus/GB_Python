@@ -84,4 +84,4 @@ else:
     for i in range(len(word)):
         sum += int(russian[word[i]])
 
-print(f"The value of the word {word} is equal to {sum}. ")
+print(f"The value of the word {word} equals {sum}. ")
